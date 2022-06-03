@@ -1,0 +1,20 @@
+{
+    "name": "bijit1997/crud",
+    "description": "crud tutorial",
+    "type": "wordpress-plugin",
+    "license": "GPLv2",
+    "authors": [
+        {
+            "name": "bijit027",
+            "email": "bijitdeb70@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload":{
+        "psr-4":{
+            "Crud\\Tutorial\\": "includes/"
+        },
+        "files": []
+    }
+}
