@@ -15,6 +15,6 @@
         "psr-4":{
             "Crud\\Tutorial\\": "includes/"
         },
-        "files": []
+        "files": [ "includes/functions.php" ]
     }
 }
